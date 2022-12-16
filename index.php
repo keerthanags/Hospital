@@ -1,6 +1,6 @@
 <?php
 
-    define("heart","Keerthi");
-    echo heart;
+    define("num",500);
+    echo num;
 
 ?>
